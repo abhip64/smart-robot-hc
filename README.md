@@ -4,7 +4,7 @@ The main objective of this project is to explore the possibility of developing a
 
 
 # Installation Instructions
-The first step in setting up the work environment would be to install Android Studio.
+The first step in setting up the work environment would be to install Android Studio https://developer.android.com/studio.
 
 ## ros-java 
 The installation instructions followed are for ROS-Kinetic Distro on Ubuntu 16.04. Before following the procedure to install ros-java, have the respective ROS Distro installed on your system. For more details on the installation of ros-java, check out http://wiki.ros.org/rosjava/Tutorials/kinetic/Source%20Installation. 
