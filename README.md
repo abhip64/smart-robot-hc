@@ -23,3 +23,7 @@ rosdep update
 rosdep install --from-paths src -i -y
 catkin_make
 ```
+# Troubleshoot
+## Android Emulator Running Too Slow
+* https://stackoverflow.com/questions/43586765/android-emulator-running-extremly-slow-on-ubuntu-17-04-compared-to-windows-10
+* Increase RAM SIZE of the JAVA VM of the emulator to 512MB
